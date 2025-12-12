@@ -1,0 +1,22 @@
+# UGA Hacks11 - Intro to ML Workshop Requirements
+# Python 3.8+ recommended
+
+# Core ML and Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+
+# Optional: For advanced features
+jupyter>=1.0.0
+notebook>=6.4.0
+ipywidgets>=7.6.0
+
+# Optional: For real-world datasets
+yfinance>=0.1.70
+kaggle>=1.5.12
+
+# Optional: For deep learning (if time permits)
+# tensorflow>=2.8.0
+# torch>=1.10.0
